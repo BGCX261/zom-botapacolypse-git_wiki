@@ -1,7 +1,7 @@
 #The Man-iest Page.
 
 = Description =
-Player character that has to escape the maze
+Player character (You!) that has to escape the maze
 
 
 ==Controls==
@@ -9,4 +9,4 @@ Player character that has to escape the maze
   * *S* to move down
   * *A* to move left
   * *D* to move right
-  * *Space* to use weapon
+  * *Space* to use weapons (see [stick])
