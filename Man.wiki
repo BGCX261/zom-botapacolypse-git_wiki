@@ -1,13 +1,12 @@
 #The Man-iest Page.
 
 = Description =
+Player character that has to escape the maze
 
-Moves, attacks, kills, wins
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+==Controls==
+  * *W* to move up
+  * *S* to move down
+  * *A* to move left
+  * *D* to move right
+  * *Space* to use weapon
