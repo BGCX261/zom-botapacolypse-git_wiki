@@ -1,13 +1,19 @@
-#Pokemon quote: "it's not very effective".
+#Quote: "it's not very effective".
 
 = Description =
 
-Add your content here.
+This is the starting weapon, it breaks after 4 uses
 
 
 ==Details==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * Drops from [Zombie]
+  * Does 25 DMG
+  * Can kill 1 enemy if at full condition
+  * Is the weakest weapon
+
+===Weapons===
+  * [Stick]
+  * [Taser]
+  * [Stun Gun]
+  * [Pistol]
