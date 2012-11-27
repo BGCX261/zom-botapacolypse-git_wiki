@@ -29,11 +29,13 @@ The object that makes up the sides of the maze. It is unbreakable, and cannot be
 A promising, reliable object for protection. It can be picked up by the man to be used to kill robots and zombies. It will break after a certain amount of hits.
 
 == [Taser] ==
-A shoot range weapon that shoots electricity. It can be used on both robots and zombies, but it will kill robots in one hit. It can only be used twice before it breaks.
+A short range weapon that shoots electricity. It can be used on both robots and zombies, but it will kill robots in one hit. It can only be used twice before it breaks.
 
 == [Stun Gun] ==
+A long range weapon that shoots electricity. It can be used on both robots and zombies, but it will kill robots in one hit. It can only be used once before it breaks.
 
+== [Electricity] ==
+Damaging object that comes out of a Stun Gun or Taser. Robots also shoot electricity but can be easily be killed by it.
 
-
-
-
+== [Pistol] ==
+A lethal and rare weapon. It will be placed in a maze rarely and will usually be found at a dead end.
