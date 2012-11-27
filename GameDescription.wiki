@@ -31,7 +31,7 @@ A promising, reliable object for protection. It can be picked up by the man to b
 == [Taser] ==
 A short range weapon that shoots electricity. It can be used on both robots and zombies, but it will kill robots in one hit. It can only be used twice before it breaks.
 
-== [ Stun Gun] ==
+== [Stun_Gun] ==
 A long range weapon that shoots electricity. It can be used on both robots and zombies, but it will kill robots in one hit. It can only be used once before it breaks.
 
 == [Electricity] ==
