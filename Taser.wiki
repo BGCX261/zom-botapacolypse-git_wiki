@@ -1,0 +1,13 @@
+#*A short range weapon that can be used by the Man*
+
+= Introduction =
+
+The taser is an object
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
