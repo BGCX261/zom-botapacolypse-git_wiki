@@ -9,4 +9,4 @@ Player character (You!) that has to escape the maze
   * *S* to move down
   * *A* to move left
   * *D* to move right
-  * *Space* to use weapons (see [stick])
+  * *Space* to use weapons (see [Stick])
