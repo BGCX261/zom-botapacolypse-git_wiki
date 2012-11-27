@@ -1,4 +1,4 @@
-#A man eating undead man, whom is very much hungry.
+#*A man eating undead man, whom is very much hungry.*
 
 = Description =
 
