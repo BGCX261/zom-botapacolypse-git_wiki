@@ -6,8 +6,8 @@ A lethal and rare weapon. It will be placed in a maze rarely and will usually be
 
 = Attributes =
 
-    * SmallRect: The basic size, length and width, of the object
-    * SmallSurface: The sprite itself
+    * SmallRect : The basic size, length and width, of the object
+    * SmallSurface : The sprite itself
     * place: the starting position of the object at the beginning of the game
     * attack: when the object shoots the [Projectile]
     * uses: the amount of times the object can be used before it breaks
