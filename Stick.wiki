@@ -1,4 +1,4 @@
-#It's the basic starting weapon. Quote: "it's not very effective".
+#summary It's the basic starting weapon. Quote: "it's not very effective".
 
 = Description =
 
