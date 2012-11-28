@@ -1,4 +1,4 @@
-#A long range weapon that can be used by the man.
+#summary A long range weapon that can be used by the man.
 
 = Introduction =
 
