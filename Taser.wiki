@@ -2,12 +2,9 @@
 
 = Introduction =
 
-The taser is an object
+The taser is an object that is also used as a short ranged weapon. It is an instant kill on robots, and may be very lethal if used properly. It may be used twice before it breaks
 
 
-= Details =
+= Attributes =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * smallRect: y
