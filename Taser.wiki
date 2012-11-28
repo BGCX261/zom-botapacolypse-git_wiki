@@ -6,5 +6,16 @@ The taser is an object that is also used as a short ranged weapon. It is an inst
 
 
 = Attributes =
+ 
+  * place: beginning position in the game
+  * smallRect: the basic length and width, in square, of the surface
+  * smallSurface: the part that can be seen
+  * attack: when the actual object attacks
+  * uses: the amount of times it may be used
+  * break: when the object breaks
 
-  * smallRect: y
+= Methods =
+
+  * def init: creates the object and allows it to have the attributes
+  * def place: places the object on the maze
+  * def attack: when the object is used to attack
