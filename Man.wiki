@@ -1,4 +1,4 @@
-#this page gives info on the man.
+#summary this page gives info on the man.
 
 = Description =
 Player character (You!) that has to escape the maze
@@ -10,3 +10,7 @@ Player character (You!) that has to escape the maze
   * *A* to move left
   * *D* to move right
   * *Space* to use weapons (see [Stick])
+
+==Attributes==
+
+==Methods==
