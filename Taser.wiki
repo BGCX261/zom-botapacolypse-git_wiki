@@ -13,6 +13,7 @@ The taser is an object that is also used as a short ranged weapon. It is an inst
   * attack: when the actual object attacks
   * uses: the amount of times it may be used
   * break: when the object breaks
+  * shockSound: the shock sound of the taser
 
 = Methods =
 
