@@ -1,4 +1,4 @@
-#Attributes and Methods of the Robot.
+#summary Attributes and Methods of the Robot.
 
 = Description =
 
