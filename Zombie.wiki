@@ -7,7 +7,7 @@ The zombie is spawned in the maze game and his main goal is to chase down the ma
 = Attributes =
 
   * Speed: two part list with x and y in integers
-  * MaxSpeed: the fastest speed the object can move
+  * maxSpeed: the fastest speed the object can move
   * Spawn: beginning position in the game
   * Rect: the basic length and width, in square, of the surface
   * Surface: the part that can be seen
