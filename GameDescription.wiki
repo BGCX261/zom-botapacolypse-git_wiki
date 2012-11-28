@@ -39,3 +39,6 @@ Damaging object that comes out of a Stun Gun or Taser. Robots also shoot electri
 
 == [Pistol] ==
 A lethal and rare weapon. It will be placed in a maze rarely and will usually be found at a dead end.
+
+== [Projectile] ==
+Damaging object that is shot by the pistol. It will damage both robots and zombies and has the longest range.
