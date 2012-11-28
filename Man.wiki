@@ -1,4 +1,4 @@
-#The Man-iest Page.
+#this page gives info on the man.
 
 = Description =
 Player character (You!) that has to escape the maze
