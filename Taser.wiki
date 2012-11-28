@@ -1,4 +1,4 @@
-#*A short range weapon that can be used by the Man*
+#summary A short range weapon that can be used by the Man
 
 = Introduction =
 
