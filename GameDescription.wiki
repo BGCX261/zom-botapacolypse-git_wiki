@@ -42,3 +42,53 @@ A lethal and rare weapon. It will be placed in a maze rarely and will usually be
 
 == [Projectile] ==
 Damaging object that is shot by the pistol. It will damage both robots and zombies and has the longest range.
+
+== Game ==
+    * Create Screen
+    * Create Menu
+    * Create Man with stick
+    * Create Zombie
+    * Create Robot with stun gun
+    * Create Walls
+    * Create Stick
+    * Create Taser
+    * Create Stun Gun
+    * Create Pistol
+    * Create Weapon Spawns
+    * Create Projectile
+    * Create Electricity
+    * Create Health Bar
+
+== Play Loop ==
+    * Man Moves
+    * Zombie Moves
+    * Robot Moves
+    * Man Collides with Wall
+    * Zombie Collides with Wall
+    * Robot Collides with Wall
+    * Man Collides with Zombie
+    * Man Collides with Robot
+    * Robot Collides with Zombie
+    * Man attacks Zombie
+    * Man attacks Robot
+    * Zombie attacks Man
+    * Robot shoots man with stun gun
+    * Robot shoots zombie with stun gun
+    * Man attacks Zombie with stick
+    * Man attacks Robot with stick
+    * Man picks up Stun gun
+    * Man shoots stun gun
+    * Man attacks Zombie with stun gun
+    * Man attacks Robot with stun gun
+    * Man picks up taser
+    * Man shoots taser
+    * Man attacks Zombie with taser
+    * Man attacks Robot with taser
+    * Man picks up Pistol
+    * Man shoots pistol
+    * Man attacks zombie with pistol
+    * Man attacks robot with pistol
+    * Man dies
+    * Robot dies
+    * Zombie dies
+    * Game over
