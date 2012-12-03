@@ -46,11 +46,11 @@ Damaging object that is shot by the pistol. It will damage both robots and zombi
 == Game ==
     * Create Screen
     * Create Menu
-    * Create Man with stick
+    * Create Man
+    * Create Stick (in front of man)
     * Create Zombie
     * Create Robot with stun gun
     * Create Walls
-    * Create Stick
     * Create Taser
     * Create Stun Gun
     * Create Pistol
