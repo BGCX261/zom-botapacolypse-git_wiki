@@ -14,7 +14,7 @@
 = Objects =
 
 == [Man] ==
-The player character that you move throughout the maze trying to get to the end and avoiding the zombies and robots
+The player character that you move throughout the maze trying to get to the end and avoiding/attacking the zombies and robots
 
 == [Zombie] ==
 An enemy character that will wander throughout the maze. It will chase the man if it sees it and will attempt to kill him. The Zombie can be killed by the man or by a robot.
