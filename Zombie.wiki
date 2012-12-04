@@ -19,7 +19,7 @@ The zombie is spawned in the maze game and his main goal is to chase down the ma
 = Methods =
 
   * def __init__: creates the object and allows it to have the attributes
-  * def wander: allows the object to move
+  * def move: allows the object to move
   * def chase: allows the object to chase the player at a higher speed
   * def position: places the object on the maze
   * def sight: allows the object to see a certain distance
