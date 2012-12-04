@@ -21,6 +21,8 @@ A lethal and rare weapon. It will be placed in a maze rarely and will usually be
     * def shoot: object is used to attack
     * def use: the object is used once
     * def break: the object breaks after a certain amount of uses
+    * def remove: removes the object from the game if not living
+
 
 ===Weapons===
   * [Stick]
