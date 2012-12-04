@@ -32,5 +32,5 @@ The zombie is spawned in the maze game and his main goal is to chase down the ma
   * def collideZombie: when object collides with another of the same class
   * def biteMan: when the object attacks the player
   * def hurt: when the object gets hit by the player or robot
-  * def dead: when the object does from the player or robot
+  * def undead: when the object is dead or living
   * def dropItem: when the object dies, it drops an item
