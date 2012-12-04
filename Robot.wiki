@@ -16,6 +16,8 @@ The Robot is an enemy in the game.
     * Shoot: The object shoots electricity in order to hurt and kill
     * Hurt: when the object is attacked, and hit
     * Dead: whether the object is there or not
+    * lifebar: gives the object health
+
 
 = Methods =
 
@@ -28,3 +30,4 @@ The Robot is an enemy in the game.
     * def shootElect: when the object attacks the player
     * def hurt: when the object gets hit by the player
     * def dead: when the object dies from the player 
+    * def dropItem: when the object dies, it drops an item
