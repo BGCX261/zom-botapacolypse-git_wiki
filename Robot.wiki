@@ -30,5 +30,5 @@ The Robot is an enemy in the game.
     * def collideRobot: when the object collides with another of same class
     * def shootElect: when the object attacks the player
     * def hurt: when the object gets hit by the player
-    * def dead: when the object dies from the player 
+    * def living: when the object is living or dead 
     * def dropItem: when the object dies, it drops an item
