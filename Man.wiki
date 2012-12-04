@@ -12,5 +12,14 @@ Player character (You!) that has to escape the maze
   * *Space* to use weapons (see [Stick])
 
 ==Attributes==
-
+  *life bar: shows health of man
 ==Methods==
+  *def init: creates the object and the attributes
+  *def position: places the man in the maze
+  *def collide wall: when he collides with the outer wall
+  *def collide maze wall: when he collides with the inner walls
+  *def collide electricity: kills the electricity and reduces the mans health
+  *def collide zombie: damages the man
+  *def collide robot: collides with robot, no damage
+  *def hurt: used by other methods to cause damage
+  *def die: used by game over, also plays death animation
