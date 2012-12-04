@@ -17,5 +17,8 @@ The electricity is used by the stun gun, when the stun gun attacks, the electric
   * def init: creates the object and allows it to have the attributes
   * def shotSpawn: when the object is spawned and begins to move
   * def move: when the object moves using speed
-  * def hit: when object hits the enemy
+  * def collideMan: when object hits the player
+  * def collideZombie: when the object collides with the zombie
+  * def collideRobot: when the object collides with the robot
   * def kill: when the objects hits the enemy, and kills
+  * def living: if the object is still living or not
