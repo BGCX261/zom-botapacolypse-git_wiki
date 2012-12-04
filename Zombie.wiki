@@ -15,6 +15,8 @@ The zombie is spawned in the maze game and his main goal is to chase down the ma
   * Bite: the attack move in which this object does
   * Hurt: when the object is attacked, and hit
   * Dead: whether the object is there or not
+  * lifebar: gives the object a life bar
+
 
 = Methods =
 
