@@ -22,8 +22,8 @@ An enemy character that will wander throughout the maze. It will chase the man i
 == [Robot] ==
 An enemy character that wanders through the maze. It can shoot and will chase the man if it sees him. The robot will attempt to kill the man but the man is also able to kill the robot. It will also try to kill zombies.
 
-== [Wall] ==
-The object that makes up the sides of the maze. It is unbreakable, and cannot be jumped over or dug under. 
+== [MazeWall] ==
+The object that makes up the maze. It is unbreakable, and cannot be jumped over or dug under. 
 
 == [Stick] ==
 A promising, reliable object for protection. It can be picked up by the man to be used to kill robots and zombies. It will break after a certain amount of hits.
