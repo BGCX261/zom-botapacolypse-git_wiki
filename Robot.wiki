@@ -32,3 +32,4 @@ The Robot is an enemy in the game.
     * def hurt: when the object gets hit by the player
     * def living: when the object is living or dead 
     * def dropItem: when the object dies, it drops an item
+    * def remove: removes the object from the game if not living
