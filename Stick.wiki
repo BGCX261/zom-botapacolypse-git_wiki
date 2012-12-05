@@ -12,6 +12,25 @@ This is the starting weapon, it breaks after 4 uses or one use if it hits the wa
   * Can kill 1 enemy if at full condition
   * Is the weakest weapon
 
+= Attributes =
+ 
+  * place: beginning position in the game
+  * smallRect: the basic length and width, in square, of the surface
+  * smallSurface: the part that can be seen
+  * attack: when the actual object attacks
+  * uses: the amount of times it may be used
+  * break: when the object breaks
+  * stickSound: the shock sound of the taser
+
+= Methods =
+
+  * def init: creates the object and allows it to have the attributes
+  * def place: places the object on the maze
+  * def attack: when the object is used to attack
+  * def useDown: when the object is used once
+  * def break: when the object "dies"
+  * def remove: removes the object from the game if not living
+
 ===Weapons===
   * [Stick]
   * [Taser]
