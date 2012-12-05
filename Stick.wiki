@@ -2,7 +2,7 @@
 
 = Description =
 
-This is the starting weapon, it breaks after 4 uses
+This is the starting weapon, it breaks after 4 uses or one use if it hits the walls
 
 
 ==Details==
