@@ -12,6 +12,7 @@ The taser is an object that is also used as a short ranged weapon. It is an inst
   * shoot: when the actual object attacks
   * uses: the amount of times it may be used
   * break: when the object breaks
+  * living: if the object is living
 
 = Methods =
 
@@ -21,6 +22,8 @@ The taser is an object that is also used as a short ranged weapon. It is an inst
   * def use: when the object is used once
   * def break: when the object "dies"
   * def createElecticity: when the object attacks, it will send out electricity as a projectile
+  * def remove: if the object is not living, it is removed from the game
+
 
 ===Weapons===
   * [Stick]
