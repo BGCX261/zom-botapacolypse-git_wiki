@@ -18,8 +18,11 @@ A lethal and rare weapon. It will be placed in a maze rarely and will usually be
     * def init: creates the object and allows it to have the attributes
     * def spawn: places the object on the maze
     * def createProjectile: creates the projectile when attack is pressed
-    * def shoot: object is used to attack
-    * def use: the object is used once
+    * def attack: object is used to attack
+    * def collideZombie: when the object collide with zombie
+    * def collideRobot: when the object collides with robot
+    * def collideMazeWall: when the object collides with the maze wall
+    * def useDown: the object is used once
     * def break: the object breaks after a certain amount of uses
     * def remove: removes the object from the game if not living
 
