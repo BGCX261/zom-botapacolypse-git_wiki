@@ -1,3 +1,6 @@
+# I'm pretty sure you know what this is.
+
+
 = Introduction =
 
 The object that makes up most sides of the maze. The wall is unbreakable, and cannot be jumped over or dug under. Everything that is alive cannot pass and will collide with it, but not pass through
