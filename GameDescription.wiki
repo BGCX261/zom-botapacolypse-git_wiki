@@ -63,12 +63,17 @@ Damaging object that is shot by the pistol. It will damage both robots and zombi
     * Man Moves
     * Zombie Moves
     * Robot Moves
-    * Man Collides with Wall
-    * Zombie Collides with Wall
-    * Robot Collides with Wall
-    * Man Collides with Zombie
-    * Man Collides with Robot
-    * Robot Collides with Zombie
+    * Man collides with Wall
+    * Zombie collides with Wall
+    * Robot collides with Wall
+    * Man collides with Maze Wall
+    * Zombie collides with Maze Wall
+    * Robot collides with Maze Wall
+    * Man collides with Zombie
+    * Man collides with Robot
+    * Zombie collides with Robot
+    * Zombie collides with zombie
+    * Robot collides with Robot
     * Man attacks Zombie
     * Man attacks Robot
     * Zombie attacks Man
