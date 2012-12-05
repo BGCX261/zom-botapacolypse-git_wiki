@@ -1,5 +1,5 @@
-#summary AKA a fired bullet
+#summary A.K.A. a fired bullet
 
-= Desciption =
+= Description =
 
 Shot from [Pistol]. does (75 DMG vs. Robots) and (100 DMG vs. Zombies). It's the strongest weapon in total DMG. the other projectile is [Electricity].
