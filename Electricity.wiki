@@ -1,4 +1,4 @@
-#summary A projectile fired from the stun gun, used by the Man.
+#summary A projectile fired from the stun gun, used by the Man and Robot.
 
 = Introduction =
 
