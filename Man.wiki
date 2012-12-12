@@ -39,3 +39,5 @@ Player character (You!) that has to escape the maze
   * def attackWithTaser: attacks with weapon
   * def attackWithPistol: attacks with weapon
   * def hurt: used by other methods to cause damage
+  * def dead: man dies in the game
+  * def remove: removes man from the game when he dies
