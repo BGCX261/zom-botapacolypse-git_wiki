@@ -15,8 +15,8 @@ This is the starting weapon, it breaks after 4 uses, or 1 use if it hits the wal
 = Attributes =
  
   * place: beginning position in the game
-  * smallRect: the basic length and width, in square, of the surface
-  * smallSurface: the part that can be seen
+  * Rect: the basic length and width, in square, of the surface
+  * Surface: the part that can be seen
   * attack: when the actual object attacks
   * uses: the amount of times it may be used
   * break: when the object breaks
